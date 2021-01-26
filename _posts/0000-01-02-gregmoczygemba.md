@@ -2,7 +2,7 @@
 
 layout: slide
 
-title: "Welcome to our SECOND second slide!"
+title: "Welcome to our SECOND SECOND second slide!"
 
 ---
 
